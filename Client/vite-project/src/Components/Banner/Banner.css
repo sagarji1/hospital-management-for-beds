@@ -1,0 +1,19 @@
+.custom-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background for visibility */
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 10; /* Ensure arrows are above images */
+  }
+  
+  .custom-left-arrow {
+    left: 10px; /* Position the left arrow */
+  }
+  
+  .custom-right-arrow {
+    right: 10px; /* Position the right arrow */
+  }
+  

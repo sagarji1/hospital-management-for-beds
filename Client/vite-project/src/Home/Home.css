@@ -1,0 +1,15 @@
+.line{
+    display:flex;
+
+    
+    justify-content: center;
+    margin: 20px;
+}
+.space{
+    margin: 20px;
+}
+.head2{
+    font-size: 50px;
+    text-align: center;
+    color: #0C1844;
+}

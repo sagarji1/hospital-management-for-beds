@@ -1,0 +1,30 @@
+.row{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+hr{
+    width: 85vb;
+    margin-left: 55vb;;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: #0C1844;
+    margin-top: 12px;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 35px;
+}
+.container {
+    border:  2px solid #0C1844;
+    border-radius: 23px;
+    margin-left: 22px;
+    margin-right: 22px;
+}
+.col-md-4{
+   margin: 20px; 
+}
